@@ -83,6 +83,7 @@ This project uses machine learning techniques to predict the onset of diabetes a
 - Integration of real-time health data from wearable devices
 - Expansion of the intervention database with latest medical research
 - Collaboration with healthcare providers for clinical validation
+- Uploading EHR to the web application
 
 ## Contributors
 
